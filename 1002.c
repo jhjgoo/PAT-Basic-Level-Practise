@@ -44,6 +44,6 @@ int main()
         sum %= (int)pow(10,i);
     }
     printf("%s",pinyin[sum]);
-    return;
+    return 0;
 }
 
